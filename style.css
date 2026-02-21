@@ -16,6 +16,14 @@
 .d-flex button{
     margin-left: 10px;
 }
+.d-flex a{
+    text-decoration: none;
+    color: white;
+}
+.d-flex a:hover{
+    color: cornsilk;
+}
+
 
 
 
@@ -87,7 +95,7 @@ img {
 } */
 
 /* ========== BUTTONS ========== */
-/* .btn {
+.btn {
     padding: 10px 16px;
     border-radius: 8px;
     font-size: 14px;
@@ -122,10 +130,10 @@ img {
     color: #fff;
     padding: 8px 12px;
     border-radius: 8px;
-} */
+}
 
 /* ========== HERO SECTION ========== */
-/* .hero {
+.hero {
     display: grid;
     grid-template-columns: 1fr 1fr;
     gap: 30px;
@@ -150,7 +158,7 @@ img {
 
 .hero-illustration {
     border-radius: 15px;
-} */
+}
 
 /* ========== CARDS ========== */
 .card {
