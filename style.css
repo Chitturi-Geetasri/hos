@@ -1,13 +1,10 @@
 /* navbar */
 * {
-    /* margin: 0;
-    padding: 0;
-    box-sizing: border-box; */
     font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .navbar{
-    background-color: #295ae2;
+    background-color: rgb(113, 113, 232);
 }
 .navbar-brand img{
     margin-left: 40px;
@@ -24,77 +21,21 @@
     color: cornsilk;
 }
 
-
-
-
-/* body {
-    background-color: #e2e8f0;
-    color: #0f172a;
-    line-height: 1.5;
+.announce{
+    justify-content:space-around;
 }
 
-a {
-    text-decoration:solid;
-    color: inherit;
-}
 
-img {
-    max-width: 100%;
-    display:block;
-} */
 
-/* ========== CONTAINER ========== */
-/* .container {
-    margin: auto;
-    padding: 0 20px;
-    background-color:white;
-    margin-left: 15px;
-    margin-right: 15px;
-} */
 
-/* ========== NAVBAR ========== */
-/* .nav {
-    display:flex;
-    justify-content: space-between;
-    align-items: center;
-    padding: 14px 0;
-    background:#fff;
-}
 
-.brand {
-    display: flex;
-    gap: 10px;
-    align-items: center;
-}
 
-.brand h1 {
-    font-size: 20px;
-    display:flow-root;
-}
 
-.small-muted {
-    font: size 25px;
-    color: #64748b;
-}
 
-.nav-links {
-    display: flex;
-    gap: 14px;
-    align-items: center;
-}
 
-.nav-links a {
-    font-size: 14px;
-    padding: 6px 10px;
-    border-radius: 6px;
-    transition:  0.3s;
-}
 
-.nav-links a:hover {
-    background: #e2e8f0;
-} */
 
-/* ========== BUTTONS ========== */
+
 .btn {
     padding: 10px 16px;
     border-radius: 8px;
